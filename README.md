@@ -184,6 +184,5 @@ void loop() {
 - Add a camera module for remote vision.
 
 
-This is my university project that me and my friend build to complite the assigment! </br>
-note: feel free to contribute👌
+
 
